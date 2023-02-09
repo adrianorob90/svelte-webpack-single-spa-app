@@ -2,13 +2,13 @@
 # svelte-webpack-single-spa-app
 
 
-This is a project template for [Svelte]
+This is a project template for Svelte
 
 To create a new project based on this template using [degit](https://github.com/adrianorob90/svelte-webpack-single-spa-app)
 
 
 ```bash
-npx degit sveltejs/template-webpack svelte-app
+npx degit adrianorob90/svelte-webpack-single-spa-app svelte-app
 cd svelte-app
 ```
 
@@ -30,7 +30,4 @@ npm install
 npm run dev
 ```
 
-Navigate to [localhost:9001](http://localhost:9000). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
-
-
-## Deploying to the web
+Navigate to [localhost:9001](http://localhost:9001). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
