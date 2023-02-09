@@ -30,4 +30,4 @@ npm install
 npm run dev
 ```
 
-Navigate to [localhost:9001](http://localhost:9001). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
+Navigate to [localhost:9001](http://localhost:9001). You should see your app running but in error because it is showed in the project [adrianorob90/single-spa-root-config](https://github.com/adrianorob90/single-spa-root-config)
